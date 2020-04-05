@@ -1,1 +1,1 @@
-# Emirhan-Cevik_B191210039
+# Web-Teknolojileri-Proje
