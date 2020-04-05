@@ -3,6 +3,17 @@ Derste ogrendigim bilgiler dogrultusunda hazir tema kullanmadan HTML,CSS,JAVASCR
 PHP kullanarak kendimi (Egitim bilgilerim,Hobilerim,Sevdigim spor vb.) ve memleketimi 
 tanitan kendi web sitemi tasarlayacagim.
 
+Projenin Icerigi :
+
+-Ana sayfa (Diğer sayfalara ulasacagım menu barındıracak) 
+-Hakkinda sayfasi (Sevdigim spor,etkinler vb.)
+-Ozgecmis sayfasi (Egitim bilgileri table ve div kullanarak yapilacak)
+-Sehir sayfasi (Memleketimi tanitan kisa bir metin ve resimlerden olusacak)
+-Mirasimiz sayfasi (Sehirdeki kulturel bir mekan tanitilacak) 
+-Login sayfasi (Kullanıcı adı ve sifre kontrolu yapilacak )
+-Iletişim sayfasi (form elemanları kullanarak tasarlanacak ve gonderilen bilgiler baska sayfada
+goruntulenecek)
+
  
  
  
